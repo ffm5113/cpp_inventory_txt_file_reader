@@ -115,17 +115,14 @@ int main()
 		if (to_string(countA).length() > to_string(maxInt).length())
 		{
 			maxInt = countA;
-
 		}
 		if (to_string(countB).length() > to_string(maxInt).length())
 		{
 			maxInt = countB;
-
 		}
 		if (to_string(countC).length() > to_string(maxInt).length())
 		{
 			maxInt = countC;
-
 		}
 		if (to_string(countD).length() > to_string(maxInt).length())
 		{
