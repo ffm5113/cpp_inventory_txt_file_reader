@@ -190,6 +190,4 @@ int main()
 * D Parts   Unit Count: 1448   Inventory Value: $22416.49
 * E Parts   Unit Count: 137    Inventory Value: $3338.97
 * F Parts   Unit Count: 137    Inventory Value: $943.71
-*
-* C:\Users\Forrest\cmpsc121\homework\Activity11-ReadingTXTFiles\x64\Debug\Activity11-TXTFileReader.exe (process 61248) exited with code 0.
 */
