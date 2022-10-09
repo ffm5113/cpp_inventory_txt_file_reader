@@ -130,7 +130,7 @@ int main()
 		}
 	}
 
-    // Calculate total width of table to format output 
+    	// Calculate total width of table to format output 
 	totalWidth = COL_WIDTH1 + COUNT_STRING.size()
 		+ to_string(maxInt).size() + VAL_STRING.size() + COL_GAP
 		+ 1 + to_string(maxDub).size() - 3;
